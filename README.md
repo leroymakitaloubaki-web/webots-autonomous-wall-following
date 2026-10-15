@@ -130,7 +130,7 @@ The robot is placed in a maze-like environment with walls and narrow passages.
 A recorded demonstration of the wall-following simulation is provided below.
 
 
-[▶ Watch the demonstration](videos/suiveur_mur(1).mp4)
+[▶ Watch the demonstration](video/suiveur_mur(1).mp4)
 
 
 The video illustrates the behavior of the controller in the simulated environment.
