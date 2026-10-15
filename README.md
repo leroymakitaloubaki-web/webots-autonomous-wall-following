@@ -123,7 +123,7 @@ The robot is placed in a maze-like environment with walls and narrow passages.
 
 ### Webots Simulation Screenshot
 
-![Webots Simulation](images/webot_wall_follower(1).jpg)
+![Webots Simulation](images/webot_wall_follower.jpg)
 
 ## 🎥 9. Demonstration Video
 
