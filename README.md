@@ -123,13 +123,15 @@ The robot is placed in a maze-like environment with walls and narrow passages.
 
 ### Webots Simulation Screenshot
 
-![Webots Wall-Following Simulation](images/webots_simulation.jpg)
+![Webots Simulation](images/webot_wall_follower(1).jpg)
 
 ## 🎥 9. Demonstration Video
 
 A recorded demonstration of the wall-following simulation is provided below.
 
-[▶ Watch the Wall-Following Robot Demonstration](videos/wall_following_demo.mp4)
+
+[▶ Watch the demonstration](videos/suiveur_mur(1).mp4)
+
 
 The video illustrates the behavior of the controller in the simulated environment.
 
